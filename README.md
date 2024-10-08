@@ -3,7 +3,7 @@ Simple code to extract mp4 videos from subfolders to the main folder
 
 INSTRUCTIONS:
 
--Open the python file in visual studio code
+-Open the .py file in visual studio code
 
 -Replace "maindir" with the directory of your choice
 
