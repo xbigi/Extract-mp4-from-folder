@@ -5,7 +5,7 @@ INSTRUCTIONS:
 
 -Open the .py file in visual studio code
 
--Replace "maindir" with the directory of your choice
+-Replace "maindir" with the directory of your choice (e.g. "C:\Downloads\Videos" )
 
 -run
 
