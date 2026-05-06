@@ -1,15 +1,18 @@
-# Extract-mp4-from-folder
-Simple code to extract mp4 videos from subfolders to the main folder
+# Extract MP4 From Folder
 
-INSTRUCTIONS:
+A simple Python utility that finds all `.mp4` files inside subfolders and moves them into a single folder.
 
--Open the .py file in visual studio code
+## Features
 
--Replace "maindir" with the directory of your choice (e.g. "C:\Downloads\Videos" )
+- Extracts MP4 files from nested folders
+- Supports custom output folder
+- Prevents overwriting files with the same name
+- Includes dry-run mode to preview changes
+- Works from the command line
 
--run
+## Usage
 
+Move all MP4 files into the main folder:
 
-
-NOTE: no other videos must be in the main folder already.
-
+```bash
+python extract_mp4.py "C:\Users\YourName\Downloads\Videos"
